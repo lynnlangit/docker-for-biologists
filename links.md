@@ -7,6 +7,10 @@ From Biocontainers
 From Docker
 
  1. Best practices -- https://docs.docker.com/v17.09/engine/userguide/eng-image/dockerfile_best-practices/#general-guidelines-and-recommendations
+
+From Broad
+
+  1. Cromwell containers -- https://github.com/broadinstitute/cromwell/blob/a8ae64c1ea77b464ea8eb24398df75158eb1f7d4/docs/tutorials/Containers.md
  
 From Medium - "Towards Data Science"
 
