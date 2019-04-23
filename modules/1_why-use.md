@@ -1,10 +1,10 @@
 Show a running Terra/FC analysis workflow (pipeline)
 
-Parts
-    1. WDL - define workflow to be run on Cromwell
-    2. Config(s) - tool specific config files
-    3. Docker files - tool (or script) virtualization
-    4. Data - public cloud buckets or mounted volumes
+Parts  
+    1. WDL - define workflow to be run on Cromwell  
+    2. Config(s) - tool specific config files  
+    3. Docker files - tool (or script) virtualization  
+    4. Data - public cloud buckets or mounted volumes  
 
 When to use....
 
